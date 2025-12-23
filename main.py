@@ -3,10 +3,6 @@ Auto Quick Messenger
 --------------------
 A productivity tool designed to automate sending frequent text messages.
 It reads configurations from an external JSON file.
-
-Author: [Sizin Adınız / GitHub Kullanıcı Adınız]
-Date: 2025
-License: MIT
 """
 
 import keyboard
